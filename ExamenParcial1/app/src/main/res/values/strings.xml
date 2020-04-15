@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">ExamenParcial1</string>
+    <string name="textCalc">Calculadora</string>
+    <string name="textCurr">MX a USD</string>
+    <string name="textName">Cambia mi nombre</string>
+    <string name="textShowCalc">0</string>
+    <string name="textTipoCambio">Tipo de Cambio</string>
+    <string name="textMXNtoUSD">MXN a USD</string>
+    <string name="calcCurrButton">Calcular</string>
+
+
+</resources>
