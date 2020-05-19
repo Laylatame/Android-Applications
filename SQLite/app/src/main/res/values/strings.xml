@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">SQLite</string>
+    <string name="textNotasRapidas">Notas rápidas</string>
+    <string name="textUltimaActualizacion">Última Actualización</string>
+    <string name="textButtonGuardar">Guardar</string>
+    <string name="textButtonEliminar">Eliminar</string>
+</resources>

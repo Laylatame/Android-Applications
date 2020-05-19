@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:orientation="vertical"
+    android:gravity="center_horizontal"
+    android:layout_marginTop="10dp"
+    tools:context=".FragmentInicial">
+
+    <!-- TODO: Update blank fragment layout -->
+    <TextView
+        android:id="@+id/initialFragment"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:padding="4dp"
+        android:text="Selecciona una encuesta" />
+
+    <Button
+        android:id="@+id/buttonEncuestaA"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="ENCUESTA A - TECNOLOGÍA"/>
+
+    <Button
+        android:id="@+id/buttonEncuestaB"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="ENCUESTA B - DEPORTES"/>
+
+
+</LinearLayout>
